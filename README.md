@@ -1,3 +1,3 @@
 Hi, I’m Joseph
-I am currently in the works of getting a Bachelors of Computer Science - so a lot of these are school work though some were for fun as well
+I went to school for CS at EWU and have since worked on some personal projects. I enjoy writing apps/websites and working on scripts in powershell that help with automation. I work in IT but love to develop.
 
